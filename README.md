@@ -1,6 +1,6 @@
 # UAP-ML
 # Dataset Retail Supermarket
-
+Dataset Kaggle : https://www.kaggle.com/datasets/roopacalistus/superstore
 ## Gambaran Dataset
 Dataset Retail Supermarket berisi data penjualan dari berbagai toko dalam jaringan supermarket yang terletak di berbagai wilayah di Amerika Serikat. Dataset ini mencakup informasi rinci tentang pesanan, pelanggan, dan distribusi geografis penjualan. Dataset ini dapat digunakan untuk analisis eksplorasi data, wawasan bisnis, dan evaluasi kinerja ritel.
 
